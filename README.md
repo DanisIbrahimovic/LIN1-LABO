@@ -153,8 +153,8 @@ SRV-LIN1-01, NAS, SRV-LIN1-02 :
   l'état normal après redémarrage ;
 - [ShellCheck](https://www.shellcheck.net/) : aucun avertissement.
 
-La documentation technique complète de l'infrastructure est dans
-[`docs/Documentation-LIN1-LABO.pdf`](docs/Documentation-LIN1-LABO.pdf).
+La documentation technique complète de l'infrastructure (installation, utilisation, dépannage
+et limites de chaque service) est remise avec les archives OVA des serveurs.
 
 ## Sécurité
 
